@@ -1,5 +1,3 @@
-# RetroBIOS Collection
-
 ## BIOS List
 
 | PLATFORM                                       | BIOS FILE (download link)                                                                                               | SIZE      | CRC        | MD5                                | SHA1                                       |
